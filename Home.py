@@ -19,7 +19,6 @@ st.sidebar.markdown('Pawered by project company')
 # Layout Streamlit
 # --------------------------------------
 
-This repository contains file and script to build company strategy dashborad
 
 with st.container():
     st.write("# KILL YOUR HUNGRY BUSINESS METRICS PANEL ")
