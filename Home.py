@@ -5,9 +5,10 @@ st.set_page_config(
     page_title='Home',
     page_icon='🏭'
 )
-st.title('Delivery Fast Food')
+st.title('KILL YOUR HANGRE! Delivery Fast Food')
+st.header('The best place for you to find your newest favorite restaurant!')
+st.markdown('We have the following restaurants within our platform.')
 
-# image_path = '/Users/hallanmiranda/Documents/repos/ftc/kill-your-hangre/images.png'
 image = Image.open( 'images.png' )
 st.sidebar.image(image, width=120)
 
